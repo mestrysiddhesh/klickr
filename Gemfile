@@ -1,4 +1,7 @@
 source 'https://rubygems.org'
+#Devise gem for user authentication and validation
+gem 'devise'
+
 #for Twitter UI
 gem 'bootstrap-sass', '~> 3.3.6'
 
