@@ -6,7 +6,7 @@ Rails.application.routes.draw do
 
   get '/user/:id' => 'pages#profile'
 
-  get  '/explore' =>'pages#explorer'
+  get  '/explore' =>'pages#explore'
 
   
 
